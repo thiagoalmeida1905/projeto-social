@@ -1,7 +1,7 @@
-##Projeto Rede Social 
+## Projeto Rede Social 
 
 
-##objetivo do projeto:
+## objetivo do projeto:
 
 Esse projeto foi disponibilizado pelo Curso em video, um projeto simples, porém completo, focado no uso de iframes.
 
