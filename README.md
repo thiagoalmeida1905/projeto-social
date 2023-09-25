@@ -1,6 +1,10 @@
-Projeto Social (curso em video)
+##Projeto Rede Social 
 
-obj do projeto:
 
-- focado no uso de iframes e novas ferramentas de css
-- Hospegadem do site no github pages
+##objetivo do projeto:
+
+Esse projeto foi disponibilizado pelo Curso em video, um projeto simples, porém completo, focado no uso de iframes.
+
+O deploy da aplicação foi feita no github pages. Acesse pelo link: 
+
+link: https://thiagoalmeida1905.github.io/projeto-social/
